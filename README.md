@@ -1,3 +1,3 @@
 #Pet cafe
 
-A websute for Virtual pets
+A website for Virtual pets
